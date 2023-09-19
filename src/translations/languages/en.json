@@ -5,5 +5,8 @@
   "common": {
     "accept": "Accept",
     "decline": "Decline"
+  },
+  "point": {
+    "title": "Kodluyoruz Point Bot"
   }
 }
